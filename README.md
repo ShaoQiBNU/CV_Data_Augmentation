@@ -11,7 +11,7 @@ Data Augmentation using Random Image Cropping and Matching for Deep CNNs 论文�
 
 > RICAP的具体过程如图所示，具体步骤如下：
 
-img1
+![image](https://github.com/ShaoQiBNU/CV_Data_Augmentation/blob/master/images/1.png)
 
 ```
 1. 随机选择4张影像
@@ -25,22 +25,25 @@ img1
 
 > 裁剪具体过程如图所示，具体步骤如下：
 
-img2
+![image](https://github.com/ShaoQiBNU/CV_Data_Augmentation/blob/master/images/2.png)
 
 ## (三) label smoothing
 
 > Label smoothing的具体步骤如下：
 
-Img3
+![image](https://github.com/ShaoQiBNU/CV_Data_Augmentation/blob/master/images/3.png)
+
+![image](https://github.com/ShaoQiBNU/CV_Data_Augmentation/blob/master/images/4.png)
 
 ## (四) 参数确定
 
 > 裁剪和label smoothing过程均涉及到参数<a href="https://www.codecogs.com/eqnedit.php?latex=\beta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\beta" title="\beta" /></a>的确定，关于该参数论文的讨论如下：
 
-Img4
+![image](https://github.com/ShaoQiBNU/CV_Data_Augmentation/blob/master/images/5.png)
+
 
 # 三. 结果
 
 > 论文将此方法在CIFAR-10、CIFAR-100和ImageNet数据集上进行了测试，对结果进行了比较，对比结果如下：
 
-Img5
+![image](https://github.com/ShaoQiBNU/CV_Data_Augmentation/blob/master/images/6.png)
