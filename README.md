@@ -27,11 +27,11 @@ Data Augmentation using Random Image Cropping and Matching for Deep CNNs 论文�
 
 ![image](https://github.com/ShaoQiBNU/CV_Data_Augmentation/blob/master/images/2.png)
 
+![image](https://github.com/ShaoQiBNU/CV_Data_Augmentation/blob/master/images/3.png)
+
 ## (三) label smoothing
 
 > Label smoothing的具体步骤如下：
-
-![image](https://github.com/ShaoQiBNU/CV_Data_Augmentation/blob/master/images/3.png)
 
 ![image](https://github.com/ShaoQiBNU/CV_Data_Augmentation/blob/master/images/4.png)
 
